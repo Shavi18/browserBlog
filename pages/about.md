@@ -4,7 +4,7 @@ This would be the about page sfdsf
 </div>
 
 <DIV id="skills">
-  <h2>Skills:</h2>
+  <h3>Skills:</h3>
   <p style="font-size: 18px; font-family: cursive; color:salmon;">Software Troubleshooting ,</p>
   <p style="font-size: 18px; font-family: cursive; color:salmon;">Hardware Diagnostic,</p>
   <p style="font-size: 18px; font-family: cursive; color:salmon;">Hardware-Assembly</p>
